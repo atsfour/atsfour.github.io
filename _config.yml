@@ -1,2 +1,2 @@
-markdown: kramdown
-exclude: ['.gitignore', '.git']
+markdown:    redcarpet
+highlighter: rouge
