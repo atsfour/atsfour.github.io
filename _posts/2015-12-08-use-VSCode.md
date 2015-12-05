@@ -22,9 +22,9 @@ Microsoft製のコーディング用エディタ。
 TypeScriptの開発環境としては最強じゃないだろうか？
 
 #### 参考サイト
-[Visual Studio Codeの使い方、基本の「キ](http://www.atmarkit.co.jp/ait/articles/1507/10/news028.html)
+[Visual Studio Codeの使い方、基本の「キ」](http://www.atmarkit.co.jp/ait/articles/1507/10/news028.html)
 
-#### [公式](https://code.visualstudio.com/)
+[公式](https://code.visualstudio.com/)
 
 #### 問題点
 
