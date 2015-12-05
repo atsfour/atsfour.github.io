@@ -5,6 +5,8 @@ tags: VSCode
 title: Visual Studio Code を使ってみた。
 ---
 
+Microsoft製のコーディング用エディタ。
+
 ## 動機
 
 仕事でTypeScriptを書いていて、atomのatom-typescriptを使っていたが、

@@ -5,6 +5,8 @@ tags: jekyll github
 title: github.io + Jekyll + bootstrap を導入するまで
 ---
 
+Jekyll + Jekyll-Bootstrapで投稿してみた。
+
 ### Jekyll + Jekyll-Bootstrapで投稿するまで。
 
 以下のサイトを参照しながら。
