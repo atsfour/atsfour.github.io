@@ -1,6 +1,7 @@
 ---
 layout: default
 comments: true
+tags: jekyll github
 title: github.io + Jekyll + bootstrap を導入するまで
 ---
 
