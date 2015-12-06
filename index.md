@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## @atsfour
+### @atsfour
 
 2015年に別業界から転職した、ヒヨっ子です。
 
 主にscalaでアドテク系開発をやっています。
 
-## 最近の記事
+### 最近の記事
 
 <ul class="posts">
   {% for post in site.posts %}
