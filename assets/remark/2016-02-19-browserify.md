@@ -30,7 +30,9 @@ Browserity + TypeScript + Angular.JS
 
 ### 参考文献
 
+- [Browserify: それはrequire()を使うための魔法の杖](http://qiita.com/cognitom/items/4c63969b5085c90639d4)
 
+- [【AngularJS】ファイル分割オレオレプラクティス](http://qiita.com/izumin5210/items/130f10a94af7f42f7750)
 
 ---
 ### Browserity?
